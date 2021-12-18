@@ -1,0 +1,18 @@
+{
+    "choose": "Choose type of fees",
+    "chooseSup": "Choose a supplier",
+    "collect1": "Nguyễn Tất Thành University",
+    "loan1": "Admission fees",
+    "loan2": "Regular fees",
+    "loan3": "Dormitory fees",
+    "cusId": "Customer code",
+    "balance": "Balance",
+    "continue": "Continue",
+    "errCodeJwt": "Please login to complete the payment",
+    "enterCaptcha": "Verification",
+    "captchaErr": "Verification is incorrect",
+    "accErr": "no valid account",
+    "emptyCaptcha": "Please confirm before searching",
+    "accInfo": "Account information",
+    "baseAcc": "Source Account"
+}

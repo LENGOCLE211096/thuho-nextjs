@@ -1,0 +1,11 @@
+{
+    "success": "Successful transaction",
+    "sourceAcc": "Source Account",
+    "afBa": "Balance after transaction",
+    "cusId": "Customer ID",
+    "cusName": "Customer name",
+    "tranInfor": "Transfer information",
+    "payAmount": "Payment amount",
+    "payFee": "Payment fees",
+    "confirm": "Make another transaction"    
+}

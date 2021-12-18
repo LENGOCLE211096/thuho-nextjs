@@ -1,0 +1,11 @@
+{
+    "success": "Giao dịch thành công",
+    "sourceAcc": "Tài khoản nguồn",
+    "afBa": "Số dư sau giao dịch",
+    "cusId": "Mã khách hàng",
+    "cusName": "Tên khách hàng",
+    "tranInfor": "Thông tin chuyển khoản",
+    "payAmount": "Số tiền thanh toán",
+    "payFee": "Phí thanh toán",
+    "confirm": "Giao dịch khác"
+}

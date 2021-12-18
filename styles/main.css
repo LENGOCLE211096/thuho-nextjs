@@ -1,0 +1,31 @@
+/* @font-face {
+  font-family: 'SF Compact Display Thin';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SF Compact Display Thin'), url('sf-compact-display-thin-58646eb43a785.woff') format('woff');
+  }
+
+  @font-face {
+  font-family: 'SF Compact Display Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SF Compact Display Medium'), url('sf-compact-display-medium-5864711817c30.woff') format('woff');
+  } */
+/* html, body {
+  font-family: Helvetica Neue;
+} */
+@font-face{
+  font-family:"helveticaneue-medium";
+  font-style:normal;
+  src:url("https://candyfonts.com/wp-data/2019/04/06/51371/HelveticaNeue Medium.ttf") format("woff"),
+  url("https://candyfonts.com/wp-data/2019/04/06/51371/HelveticaNeue Medium.ttf") format("opentype"),
+  url("https://candyfonts.com/wp-data/2019/04/06/51371/HelveticaNeue Medium.ttf") format("truetype");
+}
+/* htm_tag{
+  font-family:"helveticaneue-medium";
+  font-size:55px;text-transform:none;
+  color:#F32951
+} */
+#__next-build-watcher{
+  display: none;
+}

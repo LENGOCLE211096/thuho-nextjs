@@ -1,0 +1,15 @@
+{
+    "infor": "Account information",
+    "sourceAcc": "Source Account",
+    "avaBa": "Available balances",
+    "cusId": "Customer ID",
+    "cusName": "Customer name",
+    "tranInfor": "Transfer information",
+    "payAmount": "Payment amount",
+    "payFee": "Payment fees",
+    "tranPass": "Transaction password",
+    "otp": "Enter otp code",
+    "sms": "(sms otp)",
+    "back": "Back",
+    "confirm": "Confirm"    
+}

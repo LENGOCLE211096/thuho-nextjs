@@ -1,0 +1,18 @@
+{
+    "choose": "Chọn Loại phí",
+    "chooseSup": "Chọn nhà cung cấp",
+    "collect1": "Đại học Nguyễn Tất Thành",
+    "loan1": "Phí nhập học",
+    "loan2": "Phí thường kỳ",
+    "loan3": "Phí ký túc xá",
+    "cusId": "Mã khách hàng",
+    "balance": "Số dư khả dụng",
+    "continue": "Tiếp tục",
+    "continueErr": "Bạn chưa chọn kỳ cần thanh toán!",
+    "enterCaptcha": "Mã xác nhận",
+    "emptyCaptcha": "Cần nhập mã xác nhận trước khi truy vấn",
+    "captchaErr": "Mã xác nhận không chính xác",
+    "accErr": "Không có tài khoản hợp lệ",
+    "accInfo": "Thông tin tài khoản",
+    "baseAcc": "Tài khoản nguồn"
+}

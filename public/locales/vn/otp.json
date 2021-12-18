@@ -1,0 +1,15 @@
+{
+    "infor": "Thông tin tài khoản",
+    "sourceAcc": "Tài khoản nguồn",
+    "avaBa": "Số dư khả dụng",
+    "cusId": "Mã khách hàng",
+    "cusName": "Tên khách hàng",
+    "tranInfor": "Thông tin chuyển khoản",
+    "payAmount": "Số tiền thanh toán",
+    "payFee": "Phí thanh toán",
+    "tranPass": "Mật khẩu giao dịch",
+    "otp": "Nhập mã OTP",
+    "sms": "(sms otp)",
+    "back": "Trở về",
+    "confirm": "Xác nhận"
+}
